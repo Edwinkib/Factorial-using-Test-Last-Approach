@@ -28,5 +28,5 @@ function Factorial(n) {
   return ans;
 }
 
-Factorial(6);
+Factorial(5);
 module.exports = Factorial;
